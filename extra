@@ -6,13 +6,15 @@ Ecma 7
 > variable
 > Operations
 > String
-> Math
 > String literals
+/////////////////////
+> Math
 > localstorage
 > sessionStorage
 > cookies
-> github
 > let, const
+
+> github
 > condition
 > if else
 > ternery Operations
