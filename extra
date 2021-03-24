@@ -7,29 +7,30 @@ Ecma 7
 > Operations
 > String
 > String literals
-/////////////////////
 > Math
 > localstorage
 > sessionStorage
 > cookies
 > let, const
-
-> github
+/////////////////////
 > condition
 > if else
 > ternery Operations
 > switch
 > Date
+
+> github
 > regex
-> array
-> Rest
-> Spread
 > Functions
+> Rest
+> Clousers
+> Hoisting
+
+> Spread
+> array
 > loops
 > Es6
     > maps,filter
-> Clousers
-> Hoisting
 > JSON
 > Es6
     > Transpile
