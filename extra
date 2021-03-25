@@ -25,37 +25,45 @@ Ecma 7
 > Clousers
 > Hoisting
 
-> Spread
+
 > array
 > loops
 > Es6
     > maps,filter
+> Spread
+
 > JSON
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
-> object 
+> object
+
 > this 
 > Prototypes
 > Es6
     > classes
+
 > DoM
 > Calc
 > currenyConvertor
 > promis
 > async await
-> screen
-> Geolocation
+
 > Form validation
 > Event
+
+> screen
+> Geolocation
 > Dynamic DropDown
 > Progress bar
+
 > Call/Apply
 > Baisc Jquery
 > Weather application
 > ajax
+
 > DataTables
 > fabonicci
 > factorial
