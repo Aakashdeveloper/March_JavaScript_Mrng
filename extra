@@ -18,27 +18,27 @@ Ecma 7
 > switch
 > Date
 > github
-/////////////////////
 > regex
+/////////////////////
+> loops
 > Functions
 > Rest
-> Clousers
-> Hoisting
-
 
 > array
-> loops
 > Es6
     > maps,filter
 > Spread
 
+> Clousers
+> Hoisting
+> object
 > JSON
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
-> object
+
 
 > this 
 > Prototypes
