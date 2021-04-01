@@ -28,16 +28,14 @@ Ecma 7
 > Spread
 > Clousers
 > Hoisting
-/////////////////////
-> object
 > JSON
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
-
-
+/////////////////////
+> object
 > this 
 > Prototypes
 > Es6
@@ -66,3 +64,12 @@ Ecma 7
 > fabonicci
 > factorial
 > palindrome
+
+
+//////////
+generate package.JSON
+///////
+> go inside the folder
+> npm init -y
+
+npm i @babel/core @babel/preset-env @babel/register

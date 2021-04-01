@@ -43,12 +43,13 @@ data.next()
 data.next()
 {value: undefined, done: true}
 
-//rest
+//rest es6
 function add(...args)
 {
+    // var args = [1,2,3,4]
     var sum = 0
     for(data of args){
-        sum  += data
+        sum = sum+data
     }
    return sum
 }

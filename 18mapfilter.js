@@ -1,3 +1,4 @@
+//es6
 var a = [4,5,3,8,9,34,56,78]
 a.map((data) => {console.log(data)})
 
